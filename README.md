@@ -28,31 +28,38 @@ Feel free to use any languages or frameworks, but the following information must
 The "Catch It" web app offers a revolutionary solution to improve the travel experience for both passengers and airlines. Passengers benefit from reduced stress, improved travel planning, and real-time updates during disruptions, leading to higher satisfaction and reduced missed flights. Airlines gain operational efficiency, competitive advantages, and data insights, enhancing customer service and potentially reducing costs associated with delays and missed connections.
 
 ## Tech Overview 💻
-**... what tech was used to bring this project to life?** With React,python,Html,css,loom, 
+**... what tech was used to bring this project to life?**
 Example:
 * FastAPI
 * Hugging Face AI Models
 * Next.js
-
+React
+python
+css
+HtML
 
 ### ✨ Contributors ✨
 **...tell the world who you and your team are 🙂**
 * Team member X (AAdvantage No)
 * Team member Y (AAdvantage No)
 * Team member Z (AAdvantage No)
-
+Joseph Musenge
+Micah Gholson
+Ogenna Obiora 
+Danelle Jones 
+Dajun Chew
 ### School Name 🏫
 The ABC School
-
+Rust College
 ### Team Name 🏷
 Coding Costars
-
+RC-Plus-plus
 ### Link to Video Pitch 📹
 **...point us to where you tell us about your solution 😄**
-
+https://www.canva.com/design/DAFzT_kbaqk/-cvm9HPQhgLK24uUGWjVXg/view?utm_content=DAFzT_kbaqk&utm_campaign=designshare&utm_medium=link&utm_source=recording_view
 ### Link to Demo Presentation 📽
 **...point us to your PPT or Canva slides 😍**
-
+https://www.canva.com/design/DAFzPq9QH-s/otxt_27sfieg7SqHGmtg0Q/edit?utm_content=DAFzPq9QH-s&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 ### Team Checklist due before 5p Saturday 11/4 ✅
 - [ ] Team photo
 - [ ] Team Slack channel
